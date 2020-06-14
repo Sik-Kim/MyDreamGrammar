@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Condition'/>
+        <page name='Untitled Page_03'/>
+        <page name='Loop_04'/>
+        <page name='Array_05'/>
+        <page name='Dictionary_06'/>
+        <page name='Function_07,08'/>
+    </pages>
+</playground>
