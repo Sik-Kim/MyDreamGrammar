@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='true'>
     <pages>
         <page name='Condition'/>
         <page name='Untitled Page_03'/>
         <page name='Loop_04'/>
         <page name='Array_05'/>
         <page name='Dictionary_06'/>
-        <page name='Function_07,08'/>
+        <page name='Function_07,08,09,10,11,12'/>
+        <page name='Inout Keyword_13,14,15,16'/>
+        <page name='Class_17,18,19'/>
+        <page name='Inheritance_20,21'/>
+        <page name='Class_22'/>
+        <page name='Reference_23,24'/>
+        <page name='Enumeration_25'/>
+        <page name='Framework_26'/>
     </pages>
 </playground>
